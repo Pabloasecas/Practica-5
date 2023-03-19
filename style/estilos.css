@@ -12,6 +12,16 @@ body{
     color: white;
 }
 
-input{
+.form-control{
     background-color: rgb(80, 80, 80);
+    color: white;
+}
+
+.form-text{
+    color: rgba(196, 196, 196, 0.747);
+}
+
+.navbar{
+    background-color: rgb(41, 41, 41);
+    color: white;
 }
